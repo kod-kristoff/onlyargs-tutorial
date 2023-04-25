@@ -1,0 +1,12 @@
+[package]
+name = "onlyargs-tutorial-derive"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+error-iter = "0.4.1"
+onlyargs = "0.1.2"
+onlyargs_derive = "0.1.2"
+onlyerror = "0.1.2"
